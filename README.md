@@ -1,4 +1,4 @@
-# 🏥 Hospital Terapêutico - Gestão de Consultas
+# 🏥 Gestão Hospital Terapêutico
 
 ## 📄 Descrição do Projeto
 O Hospital Terapêutico é uma aplicação desktop desenvolvida para otimizar o gerenciamento administrativo de clínicas e centros de terapia. O sistema automatiza o controle de cadastros de pacientes e profissionais, além de organizar o agendamento de consultas com cálculos de valores e status. O projeto foca na aplicação de conceitos de Programação Orientada a Objetos (POO) e Banco de Dados Relacional, garantindo que as informações sejam armazenadas de forma segura e cruzada com integridade referencial.
