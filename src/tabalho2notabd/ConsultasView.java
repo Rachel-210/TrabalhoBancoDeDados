@@ -88,7 +88,7 @@ public class ConsultasView extends javax.swing.JFrame {
                 {null, null, null, null, null}
             },
             new String [] {
-                "Data", "Paciente", "Terapeuta", "Status", "Valor"
+                "Paciente", "Terapeuta", "Data", "Status", "Valor"
             }
         ));
         jScrollPane1.setViewportView(tabelaDados);
