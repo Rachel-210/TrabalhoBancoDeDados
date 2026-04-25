@@ -32,6 +32,3 @@ Para rodar a aplicação localmente, é necessário configurar o banco de dados 
 User: postgres
 Password: sua_senha_aqui
 * Execute o arquivo LoginView.java como classe principal.
-
-## 🎥 Vídeo Explicativo
-**link:** 
